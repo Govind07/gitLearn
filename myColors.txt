@@ -5,4 +5,4 @@ Yellow
 White
 Orange
 Blue
-The file should not tallk about the contributor
+The file should 
